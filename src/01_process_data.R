@@ -17,7 +17,7 @@ library(ROCR)
 # ----------------------------------------
 
 # Read in data
-data <- read.csv('speed_dating_data.csv')
+data <- read.csv('data/speed_dating_data.csv')
 
 # ----------------------------------------
 # Step 2: Clean Data
